@@ -1,4 +1,5 @@
-{
+[
+    {
     "id": 1,
     "titulo": "A la deriva",
     "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD5htgIVr66Rgtdm8ovLFR4Z8Zq.jpg",
@@ -26,3 +27,4 @@
     "price": 10,
     "profesor": "Alvaro Felipe"
   }
+]
