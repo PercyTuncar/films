@@ -4,15 +4,15 @@
       "id": 1, 
       "titulo": "A la deriva",
       "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD5htgIVr66Rgtdm8ovLFR4Z8Zq.jpg",
-      "price": 40,
-      "profesor": "Percy Tuncar"
+      "price": "Ver trailer",
+      "profesor": "2018"
     },
     { 
       "id": 2, 
-      "titulo": "A la deriva",
-      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD5htgIVr66Rgtdm8ovLFR4Z8Zq.jpg",
-      "price": 40,
-      "profesor": "Percy Tuncar"
+      "titulo": "Ad astra",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK6Oq4JywUNXmJ299efUkv1h6Mn.jpg",
+      "price": "Próximo",
+      "profesor": "2019"
     }
   ]
 }
